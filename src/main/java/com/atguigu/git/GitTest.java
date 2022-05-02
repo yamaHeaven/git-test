@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("hello git2 第一次修改!");
         System.out.println("hello git3 第二次修改!");
         System.out.println("hello git4 hot-fix分支修改!");
+        System.out.println("hot-fix test conflict ");
 
     }
 }
